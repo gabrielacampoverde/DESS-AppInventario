@@ -1,0 +1,200 @@
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 > #backgroundBox {
+  position: absolute;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 > #alignmentBox {
+  position: relative;
+  max-width: 430.0px;
+  max-height: 932.0px;
+  width: 100%;
+  height: 100%;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Image {
+  position: absolute;
+  width: 430.0px;
+  height: 100.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 {
+  position: absolute;
+  width: 247.00000000000006px;
+  min-height: 51.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 > .backgroundLayer > .colorLayer {
+  background-color: #05BE6A;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 > .borderLayer {
+  border-top-width: 1.0px;
+  border-top-style: solid;
+  border-top-color: #05BE6A;
+  border-right-width: 1.0px;
+  border-right-style: solid;
+  border-right-color: #05BE6A;
+  border-bottom-width: 1.0px;
+  border-bottom-style: solid;
+  border-bottom-color: #05BE6A;
+  border-left-width: 1.0px;
+  border-left-style: solid;
+  border-left-color: #05BE6A;
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 > .backgroundLayer {
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-weight: 700;
+  text-transform: none;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_1 span#rtr-s-Button_1_0 {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-weight: 700;
+  text-transform: none;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 {
+  position: absolute;
+  width: 247.00000000000006px;
+  min-height: 51.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+  border-left-width: 0px;
+  border-bottom-width: 0px;
+  border-right-width: 0px;
+  border-top-width: 0px;
+  font-size: 0pt;
+  font-family: 'Arial',Arial;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 > .backgroundLayer > .colorLayer {
+  background-color: #FF0000;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 > .borderLayer {
+  border-top-width: 1.0px;
+  border-top-style: solid;
+  border-top-color: #FF0000;
+  border-right-width: 1.0px;
+  border-right-style: solid;
+  border-right-color: #FF0000;
+  border-bottom-width: 1.0px;
+  border-bottom-style: solid;
+  border-bottom-color: #FF0000;
+  border-left-width: 1.0px;
+  border-left-style: solid;
+  border-left-color: #FF0000;
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 > .backgroundLayer {
+  border-top-left-radius: 15.0px;
+  border-top-right-radius: 15.0px;
+  border-bottom-right-radius: 15.0px;
+  border-bottom-left-radius: 15.0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 .paddingLayer {
+  padding-top: 0px;
+  padding-right: 0px;
+  padding-bottom: 0px;
+  padding-left: 0px;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 .valign {
+  vertical-align: middle;
+  text-align: center;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 span {
+  color: #FFFFFF;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-weight: 700;
+  text-transform: none;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Button_2 span#rtr-s-Button_2_0 {
+  color: #FFFFFF;
+  text-decoration: none;
+  font-family: 'Arial',Arial;
+  font-size: 15.0pt;
+  font-weight: 700;
+  text-transform: none;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Hotspot_1 {
+  position: absolute;
+  width: 246.99999999999977px;
+  height: 51.0px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 #s-Hotspot_2 {
+  position: absolute;
+  width: 246.99999999999915px;
+  height: 51.00000000000006px;
+  -webkit-transform: rotate(0.0deg);
+  -moz-transform: rotate(0.0deg);
+  transform: rotate(0.0deg);
+}
+.devMobile #jim-container .ui-page {
+  overflow-x: hidden;
+}
+.non_jim_mobile #simulation {
+  overflow-x: hidden;
+}
+.web #simulation {
+  overflow-x: hidden;
+}
+#s-b9a095cb-7108-4a70-ab1b-6d4e201a2809 > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
