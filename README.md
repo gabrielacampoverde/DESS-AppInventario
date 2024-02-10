@@ -50,7 +50,7 @@
 
  - [Diagrama Conceptual](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_Conceptual.png)
 
- - [Diagrama Wireflow](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_Wireflow.png)
+ - [Diagrama Wireflow](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_Wireflow.pdf)
 
  - [Diagrama de Navegación](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_navegacion.pdf)
 
