@@ -25,18 +25,37 @@
 
 ### Entrega 1:
 
- - [Arquitectura de la información]()
+ - [Documento de Planificación](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/Documento_Planificacion.docx) 
+ 
+ - [Arquitectura de la información](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/Arquitectura_Informacion.docx)
 
- - [Diagrama Conceptual]()
+ - [Modelo de Tareas](https://github.com/gabrielacampoverde/DESS-AppInventario/tree/main/Practica_3/Entrega1/Modelo_tareas)
+ 
+ - [Diagrama Conceptual](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/Diagrama_Conceptual.png)
 
- - [Diagrama Wireflow]()
+ - [Diagrama Wireflow](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/Diagrama_Wireflow.png)
 
- - [Diagrama de Navegación]()
+ - [Diagrama de Navegación](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/Diagrama_navegacion.pdf)
 
- - [Documento de Planificación]()
+ - [Bocetos](https://github.com/gabrielacampoverde/DESS-AppInventario/tree/main/Practica_3/Entrega1/Bocetos)
 
- - [Prototipo Justimind]()
+ - [Prototipo Justimind](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega1/JustinMin_Prototipo.zip)
 
- - [Bocetos]()
+ 
+### Entrega 2:
 
- - [Modelo de Tareas]()
+ - [Arquitectura de la información](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Arquitectura_Informacion.docx)
+
+ - [Modelo de Tareas](https://github.com/gabrielacampoverde/DESS-AppInventario/tree/main/Practica_3/Entrega2/Modelo_tareas)
+
+ - [Diagrama Conceptual](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_Conceptual.png)
+
+ - [Diagrama Wireflow](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_Wireflow.png)
+
+ - [Diagrama de Navegación](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Diagrama_navegacion.pdf)
+
+ - [Bocetos](https://github.com/gabrielacampoverde/DESS-AppInventario/tree/main/Practica_3/Entrega2/Bocetos)
+
+ - [Prototipo Justimind](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Boceto_JustinMind.zip)
+
+ - [Digital Justimind](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Digital_Justinmind)
