@@ -1,6 +1,7 @@
 
 # Aplicativo Inventario de Activos Fijos
 
+Esta practica fue realizada por Gabriela Campoverde y Miguel Morocho, y a continuación se muestra el lista de las practicas con su detalle respectivamente.
 
 ## Practica 1:
 
@@ -59,3 +60,12 @@
  - [Prototipo Justimind](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Boceto_JustinMind.zip)
 
  - [Digital Justimind](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_3/Entrega2/Digital_Justinmind)
+
+## Practica 4:
+
+ - [Recorido Cognitivo del usuario](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_4/RecoridoCognitivo_Usuario)
+
+ - [Recorido Cognitivo Observador](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_4/RecoridoCognitivo_Observador.docx)
+
+ - [Pagina Web](https://github.com/gabrielacampoverde/DESS-AppInventario/blob/main/Practica_4/PaginaWeb) 
+ 
